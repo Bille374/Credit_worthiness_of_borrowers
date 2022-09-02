@@ -2,7 +2,7 @@
 ## Random_Over_Sample_Analysis
 
 credit risk analysis report is a classification problem: because there is outnumbered healthy loans than risky loans we need to make split 
-with Logistic regression model to compare oroginal data with resample data
+by using  Logistic regression model to compare original data with resample data
 
 # Step1:
 ## Imports
